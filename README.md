@@ -1,2 +1,2 @@
 # shit-t2blobs
-script to install t2 blobs for shit linux
+script to install t2 wifi blobs for shit linux
